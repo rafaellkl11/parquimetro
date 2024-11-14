@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=tempo
+comment0.text=\r\n\ Relgio.\r\n\ \r\n\ Rafael\ Henrique\ Flores\ de\ Chapman\ Santos\r\n\ \r\n
+comment1.params=minutos\ horas
+comment1.target=tempo(int,\ int)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ tempo\r\n\ Recebe\ horas\ e\ minutos\ e\ transforma\ em\ relogio\r\n
+comment2.params=
+comment2.target=java.lang.String\ getRelogio()
+numComments=3
